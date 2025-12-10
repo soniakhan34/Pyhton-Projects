@@ -42,6 +42,12 @@ Here you will find:
 
 I regularly update my repositories with new work.
 
+🛠 Projects
+
+### Calculator
+A simple calculator using Python. Performs basic arithmetic operations.  
+[View Project](https://github.com/soniakhan/Calculator)
+
 ---
 ## ✨ **Goals & Interests**
 
