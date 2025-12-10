@@ -45,8 +45,16 @@ I regularly update my repositories with new work.
 🛠 Projects
 
 ### Calculator
-A simple calculator using Python. Performs basic arithmetic operations.  
-[View Project](https://github.com/soniakhan/Calculator)
+A simple calculator using Python.  
+[View Project](Calculator/)
+
+### Shopping List App
+Create, view, and manage your shopping list.  
+[View Project](ShoppingList/)
+
+### To-Do List App
+Manage your tasks, mark as completed, or delete entire list.  
+[View Project](ToDoList/)
 
 ---
 ## ✨ **Goals & Interests**
