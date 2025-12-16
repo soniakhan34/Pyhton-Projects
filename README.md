@@ -44,17 +44,11 @@ I regularly update my repositories with new work.
 
 🛠 Projects
 
+### Contact_list App
+### Shopping_List App
 ### Calculator
-A simple calculator using Python.  
-[View Project](Calculator/)
+### To-Do_List App
 
-### Shopping List App
-Create, view, and manage your shopping list.  
-[View Project](ShoppingList/)
-
-### To-Do List App
-Manage your tasks, mark as completed, or delete entire list.  
-[View Project](ToDoList/)
 
 ---
 ## ✨ **Goals & Interests**
