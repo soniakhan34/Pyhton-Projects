@@ -1,73 +1,35 @@
 # 👋 Hi, I'm **Sonia Khan**
 
-### 🌸 *IT Student | Programmer | Web Developer | Graphic Designer*
+# Python Projects
 
-Welcome to my GitHub portfolio! I love turning ideas into clean, functional, and creative projects. I'm currently completing my **BS in IT** and improving my skills in programming, development, and design.
+A professional collection of Python projects created to practice programming concepts and build problem-solving skills.  
+This repository includes beginner to intermediate level Python programs with a focus on clean and readable code.
 
----
+## 📖 Overview
+This repository is designed to improve Python programming skills through hands-on projects.  
+Each project demonstrates practical use of Python concepts and logical implementation.
 
-## 🚀 **Skills & Technologies**
+## 🎯 Key Objectives
+- Strengthen Python fundamentals
+- Improve logical and analytical thinking
+- Practice writing clean and efficient code
+- Build real-world style console applications
 
-### **💻 Programming Languages**
+## 🧠 Concepts Covered
+- Variables and Data Types
+- Conditional Statements
+- Loops
+- Functions
+- Lists, Tuples, and Dictionaries
+- File Handling (Basic)
+- Exception Handling (Basic)
 
-* C Language
-* C++
-* Java
-* Python
+## 📁 Projects Included
+- Simple Calculator
+- Number Guessing Game
+- To-Do List Application
+- Contact Management System
+- Mini Practice Projects
 
-### **🌐 Web Development**
-
-* HTML
-* CSS
-* JavaScript
-* Basic UI/UX Understanding
-
-### **🎨 Graphic Designing**
-
-* Logo Design
-* Social Media Posts
-* Banners & Posters
-* Thumbnails
-
----
-
-## 📂 **My GitHub Projects**
-
-Here you will find:
-
-* 🔸 Python Practice Codes
-* 🔸 Java OOP Concepts & Assignments
-* 🔸 C & C++ Programs
-* 🔸 Web Development Mini Projects
-
-I regularly update my repositories with new work.
-
-🛠 Projects
-
-### Contact_list App
-### Shopping_List App
-### Calculator
-### To-Do_List App
-
-
----
-## ✨ **Goals & Interests**
-
-* Building real-world projects
-* Learning advanced web development
-* Improving design & UI skills
-* Working on problem-solving & DSA
-
----
-## 📬 **Contact Me**
-
-If you want to collaborate or check my work on accounts:
-
-* **Email:** (soniakhan.com90@gmail.com)
-* **GitHub:** (https://github.com/soniakhan34)
-* **Linkdin**:(www.linkedin.com/in/sonia-khan-a863a6392)
-* **Upwork**:(https://www.upwork.com/freelancers/~01feaab9c9daa54082)
----
-
-### ❤️ *Thanks for visiting my portfolio — More projects coming soon!*
+*More projects will be added regularly.*
 
