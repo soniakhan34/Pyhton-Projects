@@ -61,10 +61,11 @@ I regularly update my repositories with new work.
 ---
 ## 📬 **Contact Me**
 
-If you want to collaborate or check my work:
+If you want to collaborate or check my work on accounts:
 
-* **Email:** [soniakhanofficial@gmail.com](mailto:soniakhanofficial@gmail.com)
-* **GitHub:** [https://github.com/YourUsername](https://github.com/YourUsername)
+* **Email:** [Sonia khan/Email](soniakhan.com90@gmail.com)
+* **GitHub:** [Sonia khan/Github](https://github.com/soniakhan34)
+* **Linkdin**:[Sonia khan/Linkdin](www.linkedin.com/in/sonia-khan-a863a6392)
 ---
 
 ### ❤️ *Thanks for visiting my portfolio — More projects coming soon!*
