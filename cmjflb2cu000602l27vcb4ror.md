@@ -3,7 +3,7 @@ title: "My First Python Project"
 datePublished: Sun Dec 21 2025 10:34:15 GMT+0000 (Coordinated Universal Time)
 cuid: cmjflb2cu000602l27vcb4ror
 slug: my-first-python-project
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1766312643750/a6dbbab6-3f99-4ac2-b384-73409516b1d1.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1766313434325/b0f8ae52-b513-409c-9861-9f54455b1efa.png
 
 ---
 
