@@ -1,5 +1,3 @@
-# 👋 Hi, I'm **Sonia Khan**
-
 # Python Projects
 
 A professional collection of Python projects created to practice programming concepts and build problem-solving skills.  
