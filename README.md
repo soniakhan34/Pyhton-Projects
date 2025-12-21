@@ -66,6 +66,7 @@ If you want to collaborate or check my work on accounts:
 * **Email:** (soniakhan.com90@gmail.com)
 * **GitHub:** (https://github.com/soniakhan34)
 * **Linkdin**:(www.linkedin.com/in/sonia-khan-a863a6392)
+* **Upwork**:(https://www.upwork.com/freelancers/~01feaab9c9daa54082)
 ---
 
 ### ❤️ *Thanks for visiting my portfolio — More projects coming soon!*
