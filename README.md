@@ -63,9 +63,9 @@ I regularly update my repositories with new work.
 
 If you want to collaborate or check my work on accounts:
 
-* **Email:** [Sonia khan/Email](soniakhan.com90@gmail.com)
-* **GitHub:** [Sonia khan/Github](https://github.com/soniakhan34)
-* **Linkdin**:[Sonia khan/Linkdin](www.linkedin.com/in/sonia-khan-a863a6392)
+* **Email:** [](soniakhan.com90@gmail.com)
+* **GitHub:** [](https://github.com/soniakhan34)
+* **Linkdin**:[](www.linkedin.com/in/sonia-khan-a863a6392)
 ---
 
 ### ❤️ *Thanks for visiting my portfolio — More projects coming soon!*
